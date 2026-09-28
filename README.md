@@ -16,6 +16,7 @@ My portfolio is centered on **healthcare, pharmacy, retail, commercial performan
 
 | Project | What it demonstrates | Core stack |
 |---|---|---|
+| [**Healthcare Data Governance & Quality Control Center**](https://github.com/khaledzidan203-stack/healthcare-data-governance-quality-control-center) | End-to-end governance and quality-control analytics on the CMS 2010 BSA Carrier Line Items PUF, with RAW/STAGING/ANALYTICS architecture, governed KPIs, source-conflict preservation, SQL/Python reconciliation, a 10-table semantic model, and a seven-page PBIP/PBIR report | SQL Server · Python · Power BI · DAX · PBIP/PBIR · TMDL · PowerShell |
 | [**Transparency in Coverage PUF Analytics**](https://github.com/khaledzidan203-stack/transparency-in-coverage-puf) | End-to-end analysis of CMS insurer/plan transparency data with governed KPI logic, availability modeling, claims denials, appeals, data-quality controls, PBIP/PBIR delivery, and runtime DAX reconciliation | Power BI · DAX · Python · Power Query · PBIP/PBIR · TMDL |
 | [**Saudi Healthcare Analytics**](https://github.com/khaledzidan203-stack/saudi-healthcare-analytics) | Official Saudi MOH healthcare statistics transformed into canonical analytical data, SQL validation, governed KPIs, and a source-controlled Power BI semantic model | SQL Server · Power BI · DAX · Python |
 | [**Hospital360**](https://github.com/khaledzidan203-stack/Hospital360) | Production-style hospital analytics using realistic synthetic data across patient activity, claims, finance, workforce, operations, capacity, and technology reliability | PostgreSQL · SQL · Python · Power BI |
@@ -72,7 +73,7 @@ My projects consistently emphasize:
 
 ## Portfolio Areas
 
-Healthcare & Payer Analytics · Hospital Operations · Pharmacy & Retail Analytics · Sales & Commercial Performance · Customer Intelligence · Category Management · Inventory Analytics · Transaction Reconciliation · Data Quality & Analytics Governance
+Healthcare & Payer Analytics · Healthcare Data Governance & Quality · Hospital Operations · Pharmacy & Retail Analytics · Sales & Commercial Performance · Customer Intelligence · Category Management · Inventory Analytics · Transaction Reconciliation · Data Quality & Analytics Governance
 
 ---
 
@@ -92,10 +93,11 @@ I am focused on opportunities in **Data Analytics, Business Intelligence, Health
 
 ### Recommended starting points for recruiters and reviewers
 
-1. [Transparency in Coverage PUF Analytics](https://github.com/khaledzidan203-stack/transparency-in-coverage-puf)
-2. [Saudi Healthcare Analytics](https://github.com/khaledzidan203-stack/saudi-healthcare-analytics)
-3. [Hospital360](https://github.com/khaledzidan203-stack/Hospital360)
-4. [Online Retail Growth & Customer Intelligence](https://github.com/khaledzidan203-stack/online-retail-growth-customer-intelligence)
+1. [Healthcare Data Governance & Quality Control Center](https://github.com/khaledzidan203-stack/healthcare-data-governance-quality-control-center)
+2. [Transparency in Coverage PUF Analytics](https://github.com/khaledzidan203-stack/transparency-in-coverage-puf)
+3. [Saudi Healthcare Analytics](https://github.com/khaledzidan203-stack/saudi-healthcare-analytics)
+4. [Hospital360](https://github.com/khaledzidan203-stack/Hospital360)
+5. [Online Retail Growth & Customer Intelligence](https://github.com/khaledzidan203-stack/online-retail-growth-customer-intelligence)
 
 ---
 
