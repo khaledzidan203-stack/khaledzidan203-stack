@@ -6,7 +6,7 @@
 
 I build end-to-end analytics solutions that turn complex operational and public datasets into **governed KPIs, validated semantic models, interactive dashboards, and decision-ready insights**.
 
-My portfolio is centered on **healthcare, pharmacy, retail, commercial performance, customer analytics, reconciliation, data quality, and operational decision support**—with an emphasis on analytical correctness, reproducibility, and business context.
+My portfolio is centered on **healthcare, pharmacy, retail, commercial performance, customer analytics, reconciliation, data quality, interoperability, and operational decision support**—with an emphasis on analytical correctness, reproducibility, and business context.
 
 [LinkedIn](https://www.linkedin.com/in/khaled-zidan-7400a51a3) · [GitHub Portfolio](https://github.com/khaledzidan203-stack)
 
@@ -16,6 +16,7 @@ My portfolio is centered on **healthcare, pharmacy, retail, commercial performan
 
 | Project | What it demonstrates | Core stack |
 |---|---|---|
+| [**Healthcare Interoperability & Claims Intelligence Platform**](https://github.com/khaledzidan203-stack/healthcare-interoperability-claims-intelligence) | Production-style CMS Blue Button / FHIR claims engineering with OAuth 2.0 + PKCE, governed ingestion, run-scoped lineage, canonical claims grains, PostgreSQL analytics, data quality, Power BI PBIR/TMDL and automated GitHub Actions validation | Python · PostgreSQL · FHIR · OAuth 2.0 / PKCE · Power BI · DAX · PBIP/PBIR · TMDL · GitHub Actions |
 | [**Healthcare Data Governance & Quality Control Center**](https://github.com/khaledzidan203-stack/healthcare-data-governance-quality-control-center) | End-to-end governance and quality-control analytics on the CMS 2010 BSA Carrier Line Items PUF, with RAW/STAGING/ANALYTICS architecture, governed KPIs, source-conflict preservation, SQL/Python reconciliation, a 10-table semantic model, and a seven-page PBIP/PBIR report | SQL Server · Python · Power BI · DAX · PBIP/PBIR · TMDL · PowerShell |
 | [**Transparency in Coverage PUF Analytics**](https://github.com/khaledzidan203-stack/transparency-in-coverage-puf) | End-to-end analysis of CMS insurer/plan transparency data with governed KPI logic, availability modeling, claims denials, appeals, data-quality controls, PBIP/PBIR delivery, and runtime DAX reconciliation | Power BI · DAX · Python · Power Query · PBIP/PBIR · TMDL |
 | [**Saudi Healthcare Analytics**](https://github.com/khaledzidan203-stack/saudi-healthcare-analytics) | Official Saudi MOH healthcare statistics transformed into canonical analytical data, SQL validation, governed KPIs, and a source-controlled Power BI semantic model | SQL Server · Power BI · DAX · Python |
@@ -29,9 +30,9 @@ My portfolio is centered on **healthcare, pharmacy, retail, commercial performan
 
 ## What I Work On
 
-- **Healthcare Analytics** — claims, utilization, capacity, workforce, hospital operations, payer analytics, pharmacy operations, and performance
+- **Healthcare Analytics & Interoperability** — claims, FHIR, utilization, capacity, workforce, hospital operations, payer analytics, pharmacy operations, and performance
 - **Business Intelligence** — semantic models, governed DAX, Power BI, KPI frameworks, executive dashboards, and analytical storytelling
-- **Analytics Engineering** — canonical datasets, dimensional modeling, grain control, validation, reconciliation, and reproducibility
+- **Analytics Engineering** — canonical datasets, dimensional modeling, grain control, validation, reconciliation, lineage, and reproducibility
 - **Pharmacy & Retail Analytics** — sales, category management, inventory, pricing, suppliers, customer behavior, and branch performance
 - **Commercial Analytics** — revenue, budget variance, customer contribution, performance diagnostics, and management decision support
 - **Data Quality & Governance** — duplicate/orphan detection, availability semantics, KPI reconciliation, exception handling, and analytical controls
@@ -46,11 +47,14 @@ Power BI · DAX · Power Query · PBIP · PBIR · TMDL · Excel
 ### Data & Analytics
 SQL Server · PostgreSQL · Python · pandas · NumPy · openpyxl
 
+### Healthcare Data
+FHIR · CMS Blue Button · Claims Analytics · OAuth 2.0 / PKCE · Healthcare Data Governance
+
 ### Analytics Engineering
-Dimensional Modeling · Canonical Data Models · KPI Contracts · Data Quality · Reconciliation · Validation Workflows
+Dimensional Modeling · Canonical Data Models · KPI Contracts · Data Quality · Reconciliation · Validation Workflows · Data Lineage
 
 ### Development & Delivery
-Git · GitHub · HTML · CSS · JavaScript · Tauri
+Git · GitHub · GitHub Actions · HTML · CSS · JavaScript · Tauri
 
 ---
 
@@ -73,7 +77,7 @@ My projects consistently emphasize:
 
 ## Portfolio Areas
 
-Healthcare & Payer Analytics · Healthcare Data Governance & Quality · Hospital Operations · Pharmacy & Retail Analytics · Sales & Commercial Performance · Customer Intelligence · Category Management · Inventory Analytics · Transaction Reconciliation · Data Quality & Analytics Governance
+Healthcare Interoperability & Claims · Healthcare & Payer Analytics · Healthcare Data Governance & Quality · Hospital Operations · Pharmacy & Retail Analytics · Sales & Commercial Performance · Customer Intelligence · Category Management · Inventory Analytics · Transaction Reconciliation · Data Quality & Analytics Governance
 
 ---
 
@@ -89,15 +93,15 @@ Healthcare & Payer Analytics · Healthcare Data Governance & Quality · Hospital
 
 ## Current Focus
 
-I am focused on opportunities in **Data Analytics, Business Intelligence, Healthcare Analytics, Commercial Analytics, and Performance Analytics**, especially where **Power BI, SQL, Python, analytical modeling, and business-domain understanding** are used together.
+I am focused on opportunities in **Data Analytics, Business Intelligence, Healthcare Analytics, Analytics Engineering, Commercial Analytics, and Performance Analytics**, especially where **Power BI, SQL, Python, analytical modeling, healthcare domain understanding, and data governance** are used together.
 
 ### Recommended starting points for recruiters and reviewers
 
-1. [Healthcare Data Governance & Quality Control Center](https://github.com/khaledzidan203-stack/healthcare-data-governance-quality-control-center)
-2. [Transparency in Coverage PUF Analytics](https://github.com/khaledzidan203-stack/transparency-in-coverage-puf)
-3. [Saudi Healthcare Analytics](https://github.com/khaledzidan203-stack/saudi-healthcare-analytics)
-4. [Hospital360](https://github.com/khaledzidan203-stack/Hospital360)
-5. [Online Retail Growth & Customer Intelligence](https://github.com/khaledzidan203-stack/online-retail-growth-customer-intelligence)
+1. [Healthcare Interoperability & Claims Intelligence Platform](https://github.com/khaledzidan203-stack/healthcare-interoperability-claims-intelligence)
+2. [Healthcare Data Governance & Quality Control Center](https://github.com/khaledzidan203-stack/healthcare-data-governance-quality-control-center)
+3. [Transparency in Coverage PUF Analytics](https://github.com/khaledzidan203-stack/transparency-in-coverage-puf)
+4. [Saudi Healthcare Analytics](https://github.com/khaledzidan203-stack/saudi-healthcare-analytics)
+5. [Hospital360](https://github.com/khaledzidan203-stack/Hospital360)
 
 ---
 
