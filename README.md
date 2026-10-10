@@ -2,12 +2,13 @@
 
 # Khaled Zidan
 
-### Healthcare Data Analytics · Business Intelligence · Analytics Engineering
+### Healthcare · Retail & Supply Chain Analytics · Business Intelligence · Analytics Engineering
 
 **I build governed analytics systems that connect source data, business logic, semantic models, validation, and decision support — not just dashboards.**
 
 <p>
   <img src="https://img.shields.io/badge/Healthcare%20Analytics-0B5CAD?style=for-the-badge" alt="Healthcare Analytics">
+  <img src="https://img.shields.io/badge/Retail%20%26%20Supply%20Chain-176B87?style=for-the-badge" alt="Retail & Supply Chain Analytics">
   <img src="https://img.shields.io/badge/Business%20Intelligence-1F6FEB?style=for-the-badge" alt="Business Intelligence">
   <img src="https://img.shields.io/badge/Analytics%20Engineering-2EA043?style=for-the-badge" alt="Analytics Engineering">
 </p>
@@ -21,15 +22,46 @@
   <img src="https://img.shields.io/badge/FHIR-E34F26?style=flat-square" alt="FHIR">
 </p>
 
-[**LinkedIn**](https://www.linkedin.com/in/khaled-zidan-7400a51a3) · [**Flagship Healthcare Platform**](https://github.com/khaledzidan203-stack/healthcare-interoperability-claims-intelligence) · [**Full Repository Portfolio**](https://github.com/khaledzidan203-stack?tab=repositories)
+[**LinkedIn**](https://www.linkedin.com/in/khaled-zidan-7400a51a3) · [**Newest: Warehouse & Inventory BI**](https://github.com/khaledzidan203-stack/enterprise-retail-warehouse-inventory-intelligence) · [**Healthcare Interoperability Platform**](https://github.com/khaledzidan203-stack/healthcare-interoperability-claims-intelligence) · [**All Repositories**](https://github.com/khaledzidan203-stack?tab=repositories)
 
 </div>
 
 ---
 
+
+## 🚀 Latest Featured Project — Enterprise Retail Warehouse & Inventory Intelligence
+
+**Open retail data → governed inventory analytics → Python & SQLite → dimensional modeling → a complete eight-page Power BI report.**
+
+<p align="center">
+  <a href="https://github.com/khaledzidan203-stack/enterprise-retail-warehouse-inventory-intelligence">
+    <img src="https://raw.githubusercontent.com/khaledzidan203-stack/enterprise-retail-warehouse-inventory-intelligence/main/DASHBORD_SCREEN_SHOTS/2_Executive%20Overview.png" width="850" alt="Original Enterprise Retail Inventory Intelligence Power BI Executive Overview dashboard" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/khaledzidan203-stack/enterprise-retail-warehouse-inventory-intelligence"><strong>Explore the full project →</strong></a> &nbsp;·&nbsp;
+  <a href="https://github.com/khaledzidan203-stack/enterprise-retail-warehouse-inventory-intelligence#power-bi-dashboard-gallery">View all 8 dashboard pages</a> &nbsp;·&nbsp;
+  <a href="https://github.com/khaledzidan203-stack/enterprise-retail-warehouse-inventory-intelligence/blob/main/docs/CASE_STUDY.md">Read the case study</a> &nbsp;·&nbsp;
+  <a href="https://github.com/khaledzidan203-stack/enterprise-retail-warehouse-inventory-intelligence/blob/main/docs/TECHNICAL_WALKTHROUGH.md">Explore the engineering</a>
+</p>
+
+| **Power BI & semantic modeling** | **Analytical scope** | **Engineering and delivery** |
+|:---|:---|:---|
+| **8 pages · 112 visuals** | **40 stores · 2,326 products** | **Python + executable SQLite** |
+| **51 DAX measures · 18 relationships** | **5 dimensions · 4 facts** | **Reproducible sample + GitHub Actions** |
+
+The project retains the **original historical Power BI report**, its source-controlled **PBIP / PBIR / TMDL**, all eight real screenshots, licensed public retail RAW datasets, historical analytical tables, and a separately executable Python/SQLite simulation and validation pipeline.
+
+**Evidence-based modeling:** it distinguishes **observed sales and returns (OBS)** from **simulated inventory, service and supplier flows (SIM)** and exploratory stock signals (EXP). The reconstructed simulation is not identical to the historical scenario; Power BI Desktop refresh remains to be verified independently.
+
+[**Browse the evidence map**](https://github.com/khaledzidan203-stack/enterprise-retail-warehouse-inventory-intelligence/blob/main/docs/PROJECT_EVIDENCE_MAP.md) · [**See CI checks**](https://github.com/khaledzidan203-stack/enterprise-retail-warehouse-inventory-intelligence/actions) · [**Open the native Power BI project**](https://github.com/khaledzidan203-stack/enterprise-retail-warehouse-inventory-intelligence/tree/main/powerbi)
+
+---
+
 ## What I Build
 
-I work at the intersection of **healthcare domain knowledge, business intelligence, data analytics, and analytics engineering**.
+I work at the intersection of **healthcare domain knowledge, retail and supply-chain operations, business intelligence, data analytics, and analytics engineering**.
 
 My projects typically follow this pattern:
 
@@ -55,6 +87,7 @@ These are not generic demo claims — they come from implemented, documented pro
 
 | Project | Selected validated engineering evidence |
 |---|---|
+| **Enterprise Retail Warehouse & Inventory Intelligence** | **8 native Power BI pages** · **112 visuals** · **51 DAX measures** · **18 semantic relationships** · **40 stores / 2,326 products** · licensed public RAW + Python/SQLite + tested sample CI · [case study](https://github.com/khaledzidan203-stack/enterprise-retail-warehouse-inventory-intelligence/blob/main/docs/CASE_STUDY.md) |
 | **Healthcare Interoperability & Claims Intelligence** | CMS Blue Button/FHIR pipeline · OAuth 2.0 + PKCE · PostgreSQL · **94 regression tests** · **22 business tables** · **50 relationships** · **7-page PBIR report** |
 | **Healthcare Data Governance & Quality Control Center** | **2,801,660 published profiles** · **70,052,393 represented line items** · **19 governed DQ rules** · SQL/Python/DAX reconciliation · 7-page Power BI delivery |
 | **CMS Transparency in Coverage PUF Analytics** | **4,956 plans** · **348 issuers** · **30 states** · **43 DAX measures** · **11 PBIR pages** · **63 DAX reconciliation checks / 0 failures** |
@@ -64,7 +97,7 @@ These are not generic demo claims — they come from implemented, documented pro
 
 ---
 
-## Flagship Projects
+## Other Flagship Projects
 
 ### 🏥 Healthcare Interoperability & Claims Intelligence Platform
 [View repository →](https://github.com/khaledzidan203-stack/healthcare-interoperability-claims-intelligence)
@@ -130,6 +163,7 @@ End-to-end customer and growth analytics built from the public UCI Online Retail
 
 | Domain | Project | Core focus |
 |---|---|---|
+| **Warehouse & Distribution** | [Enterprise Retail Warehouse & Inventory Intelligence](https://github.com/khaledzidan203-stack/enterprise-retail-warehouse-inventory-intelligence) | Store/DC stock intelligence · observed demand/returns · simulated service and supplier execution · 8-page Power BI PBIP |
 | **Reconciliation** | [Transaction Reconciliation & Exception Intelligence](https://github.com/khaledzidan203-stack/transaction-reconciliation-anomaly-detection-analytics) | Explainable 8-level matching · discrepancy exposure · anomaly rules · prioritized review queues |
 | **Regional Performance** | [Regional Sales Performance Analytics](https://github.com/khaledzidan203-stack/regional-sales-analytics-portfolio) | Budget gap · LFL · traffic · weighted AST · recovery scenarios · lifecycle · Tauri desktop architecture |
 | **Category Management** | [Pharmacy Category Management Analytics](https://github.com/khaledzidan203-stack/pharmacy-category-management) | Margin · assortment · inventory risk · supplier service · pricing · descriptive promotion analysis |
@@ -191,6 +225,7 @@ Excel
 ### Data & Engineering
 SQL Server  
 PostgreSQL  
+SQLite  
 Python  
 pandas  
 NumPy  
@@ -230,7 +265,7 @@ Data Reconciliation
 
 My background combines **pharmacy / healthcare domain knowledge** with **business and analytics training**.
 
-That helps me work on problems where technical correctness alone is not enough — the analyst also needs to understand the operational meaning of claims, utilization, inventory, commercial performance, supplier service, customer behavior, and management KPIs.
+That helps me work on problems where technical correctness alone is not enough — the analyst also needs to understand the operational meaning of claims, utilization, warehouse and distribution-center inventory, replenishment, commercial performance, supplier service, customer behavior, and management KPIs.
 
 **Pharmacy background · MBA · Data Analyst Associate · Healthcare / BI / Analytics Engineering focus**
 
@@ -240,7 +275,7 @@ That helps me work on problems where technical correctness alone is not enough �
 
 I am focused on full-time opportunities in:
 
-**Data Analytics · Business Intelligence · Healthcare Analytics · BI / Reporting · Commercial & Performance Analytics · Revenue Cycle / Claims Analytics · Analytics Engineering**
+**Data Analytics · Business Intelligence · Healthcare Analytics · Retail / Supply Chain / Inventory Analytics · BI / Reporting · Commercial & Performance Analytics · Revenue Cycle / Claims Analytics · Analytics Engineering**
 
 Especially roles where **Power BI + SQL + Python + domain knowledge + data quality + decision support** are used together.
 
@@ -250,6 +285,6 @@ Especially roles where **Power BI + SQL + Python + domain knowledge + data quali
 
 ### Build the model correctly. Validate the number independently. Then tell the story.
 
-[LinkedIn](https://www.linkedin.com/in/khaled-zidan-7400a51a3) · [Repositories](https://github.com/khaledzidan203-stack?tab=repositories)
+[LinkedIn](https://www.linkedin.com/in/khaled-zidan-7400a51a3) · [Latest Warehouse & Inventory Project](https://github.com/khaledzidan203-stack/enterprise-retail-warehouse-inventory-intelligence) · [Repositories](https://github.com/khaledzidan203-stack?tab=repositories)
 
 </div>
