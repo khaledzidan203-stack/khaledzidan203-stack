@@ -22,14 +22,34 @@
   <img src="https://img.shields.io/badge/FHIR-E34F26?style=flat-square" alt="FHIR">
 </p>
 
-[**LinkedIn**](https://www.linkedin.com/in/khaled-zidan-7400a51a3) · [**Newest: Warehouse & Inventory BI**](https://github.com/khaledzidan203-stack/enterprise-retail-warehouse-inventory-intelligence) · [**Healthcare Interoperability Platform**](https://github.com/khaledzidan203-stack/healthcare-interoperability-claims-intelligence) · [**All Repositories**](https://github.com/khaledzidan203-stack?tab=repositories)
+[**LinkedIn**](https://www.linkedin.com/in/khaled-zidan-7400a51a3) · [**Newest: RetailPulse 360**](https://github.com/khaledzidan203-stack/retailpulse-360) · [**Healthcare Interoperability Platform**](https://github.com/khaledzidan203-stack/healthcare-interoperability-claims-intelligence) · [**All Repositories**](https://github.com/khaledzidan203-stack?tab=repositories)
 
 </div>
 
 ---
 
 
-## 🚀 Latest Featured Project — Enterprise Retail Warehouse & Inventory Intelligence
+## 🚀 Latest Featured Project — RetailPulse 360
+
+**End-to-End Multi-Branch Retail Sales & Business Intelligence Analytics** — an independent, fully synthetic portfolio with reproducible data generation, governed KPIs, and source-controlled Power BI.
+
+<p align="center"><a href="https://github.com/khaledzidan203-stack/retailpulse-360"><img src="https://raw.githubusercontent.com/khaledzidan203-stack/retailpulse-360/main/screenshots/01-executive-performance.png" width="850" alt="RetailPulse 360 Power BI Executive Performance dashboard — fictional synthetic retail data" /></a></p>
+
+<p align="center"><a href="https://github.com/khaledzidan203-stack/retailpulse-360"><strong>Explore the full project →</strong></a> &nbsp;·&nbsp; <a href="https://github.com/khaledzidan203-stack/retailpulse-360#report-gallery">View all 11 report screenshots</a> &nbsp;·&nbsp; <a href="https://github.com/khaledzidan203-stack/retailpulse-360/blob/main/docs/REPRODUCTION.md">Reproduce the data pipeline</a> &nbsp;·&nbsp; <a href="https://github.com/khaledzidan203-stack/retailpulse-360/actions/workflows/ci.yml">See GitHub Actions</a></p>
+
+| **Business intelligence** | **Analytical engineering** | **Reproducibility & delivery** |
+|:---|:---|:---|
+| **11 Power BI pages · 164 visuals** | **30 fictional stores · 2025–2026** | **Python 3.13 · SQLite · SQL** |
+| **43 DAX measures · PBIP / PBIR / TMDL** | **Full Snapshot: correction, retraction, protected history** | **GitHub Actions · portable Windows launcher** |
+
+**Analytical integrity:** Official Sales = Retail + Program; Marketplace is **digital attribution, not additional sales**. The model handles effective budgets, dynamic strict like-for-like cohorts, partial periods, missing versus zero, and matched-period digital comparisons.
+
+**Execution evidence:** clean-clone data regeneration, independent Python/SQLite KPI reconciliation, snapshot/atomic-publishing checks, public-file checks, and GitHub CI have passed. The `START_RETAILPULSE_360.cmd` launcher discovers local paths automatically; a moved generated project can be reopened without manually editing the Power Query parameter.
+
+**Status:** **PRE-RELEASE.** Full Power BI Desktop refresh, live DAX-engine parity, and all-page interaction QA remain pending; the report screenshots are presentation evidence, not runtime certification. [View validation boundaries](https://github.com/khaledzidan203-stack/retailpulse-360/blob/main/docs/VALIDATION_RESULTS.md).
+
+---
+## 📦 Featured Project — Enterprise Retail Warehouse & Inventory Intelligence
 
 **Open retail data → governed inventory analytics → Python & SQLite → dimensional modeling → a complete eight-page Power BI report.**
 
@@ -87,6 +107,7 @@ These are not generic demo claims — they come from implemented, documented pro
 
 | Project | Selected validated engineering evidence |
 |---|---|
+| **RetailPulse 360 — Multi-Branch Retail BI** | **11 Power BI pages** · **164 visuals** · **43 DAX measures** · **30 fictional stores / 2025–2026** · deterministic Python/SQLite generation · full snapshot governance · portable Power BI AutoPath · passing headless GitHub Actions · [repository](https://github.com/khaledzidan203-stack/retailpulse-360) |
 | **Enterprise Retail Warehouse & Inventory Intelligence** | **8 native Power BI pages** · **112 visuals** · **51 DAX measures** · **18 semantic relationships** · **40 stores / 2,326 products** · licensed public RAW + Python/SQLite + tested sample CI · [case study](https://github.com/khaledzidan203-stack/enterprise-retail-warehouse-inventory-intelligence/blob/main/docs/CASE_STUDY.md) |
 | **Healthcare Interoperability & Claims Intelligence** | CMS Blue Button/FHIR pipeline · OAuth 2.0 + PKCE · PostgreSQL · **94 regression tests** · **22 business tables** · **50 relationships** · **7-page PBIR report** |
 | **Healthcare Data Governance & Quality Control Center** | **2,801,660 published profiles** · **70,052,393 represented line items** · **19 governed DQ rules** · SQL/Python/DAX reconciliation · 7-page Power BI delivery |
@@ -163,6 +184,7 @@ End-to-end customer and growth analytics built from the public UCI Online Retail
 
 | Domain | Project | Core focus |
 |---|---|---|
+| **Multi-Branch Retail BI** | [RetailPulse 360](https://github.com/khaledzidan203-stack/retailpulse-360) | Synthetic Retail + Program sales · effective budgets · strict LFL · matched marketplace attribution · governed 11-page Power BI report |
 | **Warehouse & Distribution** | [Enterprise Retail Warehouse & Inventory Intelligence](https://github.com/khaledzidan203-stack/enterprise-retail-warehouse-inventory-intelligence) | Store/DC stock intelligence · observed demand/returns · simulated service and supplier execution · 8-page Power BI PBIP |
 | **Reconciliation** | [Transaction Reconciliation & Exception Intelligence](https://github.com/khaledzidan203-stack/transaction-reconciliation-anomaly-detection-analytics) | Explainable 8-level matching · discrepancy exposure · anomaly rules · prioritized review queues |
 | **Regional Performance** | [Regional Sales Performance Analytics](https://github.com/khaledzidan203-stack/regional-sales-analytics-portfolio) | Budget gap · LFL · traffic · weighted AST · recovery scenarios · lifecycle · Tauri desktop architecture |
@@ -285,6 +307,6 @@ Especially roles where **Power BI + SQL + Python + domain knowledge + data quali
 
 ### Build the model correctly. Validate the number independently. Then tell the story.
 
-[LinkedIn](https://www.linkedin.com/in/khaled-zidan-7400a51a3) · [Latest Warehouse & Inventory Project](https://github.com/khaledzidan203-stack/enterprise-retail-warehouse-inventory-intelligence) · [Repositories](https://github.com/khaledzidan203-stack?tab=repositories)
+[LinkedIn](https://www.linkedin.com/in/khaled-zidan-7400a51a3) · [Latest RetailPulse 360 Project](https://github.com/khaledzidan203-stack/retailpulse-360) · [Repositories](https://github.com/khaledzidan203-stack?tab=repositories)
 
 </div>
